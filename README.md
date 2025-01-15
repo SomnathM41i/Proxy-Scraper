@@ -1,6 +1,6 @@
 # Proxy Scraper Tool
 
-![Banner](https://via.placeholder.com/800x200.png?text=Proxy+Scraper+Tool)
+![Banner](img/Screenshot%202025-01-15%20061745.png)
 
 ## Overview
 
@@ -41,9 +41,8 @@ Proxy Scraper Tool is a simple yet powerful tool designed to scrape proxies from
 
 ## Screenshots
 
-![Main Menu](https://via.placeholder.com/600x400.png?text=Main+Menu)
-![Scraping Proxies](https://via.placeholder.com/600x400.png?text=Scraping+Proxies)
-![Proxy Info](https://via.placeholder.com/600x400.png?text=Proxy+Info)
+![Main Menu](/img/Screenshot%202025-01-14%20023408.png)
+![Scraping Proxies](/img/Screenshot%202025-01-15%20061745.png)
 
 ## Contributing
 
@@ -57,4 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact:
 - **Name**: Somnath Mali
-- **Email**: somnath@example.com
+- **Email**: somnath.malim46@gmail.com
