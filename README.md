@@ -17,7 +17,7 @@ Proxy Scraper Tool is a simple yet powerful tool designed to scrape proxies from
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Proxy-Scraper.git
+    git clone https://github.com/SomnathM41i/Proxy-Scraper
     cd Proxy-Scraper
     ```
 
@@ -57,3 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please contact:
 - **Name**: Somnath Mali
 - **Email**: somnath.malim46@gmail.com
+- **Instagram**: [Instagram Profile](https://www.instagram.com/somnath.m41i)
+- **Instagram**: [Instagram Profile](https://www.instagram.com/emperor.of.battle)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/somnathm41i/)
+- **X**: [X Profile](https://x.com/Somnathm41i)
